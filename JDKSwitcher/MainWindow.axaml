@@ -1,0 +1,13 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="410" d:DesignHeight="214"
+        x:Class="JDKSwitcher.MainWindow"
+        Title="JDK Switcher" MinWidth="260" MinHeight="140" Width="410" Height="214">
+    <StackPanel Margin="10" Spacing="8">
+        <ComboBox Name="JdkComboBox" HorizontalAlignment="Stretch" />
+        <Button Name="SetButton" Content="Сделать активным" HorizontalAlignment="Stretch" />
+        <TextBox Name="ConsoleBox" Height="48" IsReadOnly="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" AcceptsReturn="True" TextWrapping="Wrap"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,9 @@
+Package: jdkswitcher
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libgtk-3-0, libx11-6
+Maintainer: 0xcds4r <querror.codeto@gmail.com>
+Description: Simple JDK Switcher with GUI for Ubuntu/Linux
+ A graphical tool to switch between installed JDKs.

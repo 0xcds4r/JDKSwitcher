@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=JDK Switcher
+Exec=pkexec env DISPLAY=:1 XAUTHORITY=/run/user/1000/gdm/Xauthority LD_LIBRARY_PATH=/opt/jdkswitcher /opt/jdkswitcher/JDKSwitcher
+Icon=utilities-terminal
+Type=Application
+Categories=Utility;
