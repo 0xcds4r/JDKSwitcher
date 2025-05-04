@@ -2,6 +2,12 @@
 
 [JDKSwitcher-deb.deb](https://github.com/0xcds4r/JDKSwitcher/blob/main/build-deb.sh)
 
+## Installation
 ```bash
 sudo dpkg -i JDKSwitcher-deb.deb
+```
+
+## Uninstallation
+```bash
+sudo apt remove jdkswitcher
 ```
