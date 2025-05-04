@@ -12,6 +12,3 @@ sudo dpkg -i JDKSwitcher-deb.deb
 ```bash
 sudo apt remove jdkswitcher
 ```
-
-## Exe (Portable)
-[JDKSwitcher.exe](https://github.com/0xcds4r/JDKSwitcher/blob/main/JDKSwitcher/bin/Release/net8.0/win-x64/JDKSwitcher.exe)
