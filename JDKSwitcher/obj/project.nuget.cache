@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w2vgeNj4VhqSWmHZU4YfhuYXF3WhLaVdPjINRROSWqZJ6tvpNURu6QdhILtY/0wmgar/x2sEViv7KIixF8yAbQ==",
+  "dgSpecHash": "5ytkqkEF54ogHK8ZoZp5jLN/ZUWgKOW6EyEKSogSdtV2Eyv4mlez5R6NlqqCEp/FXEaAttCn+qXn3KG9tDAUCA==",
   "success": true,
   "projectFilePath": "/home/alex/JDKSwitcher/JDKSwitcher/JDKSwitcher.csproj",
   "expectedPackageFiles": [
@@ -33,9 +33,9 @@
     "/home/alex/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
     "/home/alex/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/alex/.nuget/packages/tmds.dbus.protocol/0.20.0/tmds.dbus.protocol.0.20.0.nupkg.sha512",
-    "/home/alex/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.15/microsoft.netcore.app.runtime.linux-x64.8.0.15.nupkg.sha512",
-    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.15/microsoft.aspnetcore.app.runtime.linux-x64.8.0.15.nupkg.sha512",
-    "/home/alex/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.15/microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
+    "/home/alex/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.15/microsoft.netcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.15/microsoft.aspnetcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.15/microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
   ],
   "logs": []
 }
